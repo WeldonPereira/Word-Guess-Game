@@ -56,5 +56,3 @@ yarn install
 Abra http://localhost:3000 no navegador para jogar!
 ## 🤝 Colaborador
 Weldon Pereira
-## 📝 Licença
-Este projeto está sob licença MIT. Veja o arquivo LICENSE para mais detalhes.
