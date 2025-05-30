@@ -1,70 +1,60 @@
-# Getting Started with Create React App
+# Word Guess Game 🎯
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![GitHub repo size](https://img.shields.io/github/repo-size/WeldonPereira/Word-Guess-Game?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/WeldonPereira/Word-Guess-Game?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/WeldonPereira/Word-Guess-Game?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/WeldonPereira/Word-Guess-Game?style=for-the-badge)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/WeldonPereira/Word-Guess-Game?style=for-the-badge)
 
-## Available Scripts
+![Captura de tela 2025-05-30 091404](https://github.com/user-attachments/assets/07e23425-7356-4dd1-b667-2529ddea03e3)
+![Captura de tela 2025-05-30 091419](https://github.com/user-attachments/assets/0656ba35-44a0-4e9a-85fb-9d2232f480fa)
+![Captura de tela 2025-05-30 091446](https://github.com/user-attachments/assets/97e3859a-1589-4256-938f-77357643c2b6)
 
-In the project directory, you can run:
+> Jogo da forca feito em React. Adivinhe as palavras de diferentes categorias antes que suas chances acabem! Pontue com acertos e desafie-se.
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### ✅ Ajustes e melhorias
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+O projeto ainda está em desenvolvimento. Futuras melhorias incluem:
 
-### `npm test`
+- [x] Estrutura básica com React
+- [x] Tela de início, jogo e fim
+- [x] Sistema de pontuação
+- [ ] Responsividade para dispositivos móveis
+- [ ] Efeitos sonoros e visuais
+- [ ] Níveis de dificuldade
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## 💻 Pré-requisitos
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Antes de começar, certifique-se de que você atendeu aos seguintes requisitos:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Node.js instalado (versão mais recente recomendada)
+- NPM ou Yarn instalado
+- Um navegador moderno
+- Sistema operacional: compatível com **Windows**, **macOS** e **Linux**
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## 🚀 Instalando Word Guess Game
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Clone o repositório:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```bash
+git clone https://github.com/WeldonPereira/Word-Guess-Game.git
+cd Word-Guess-Game
+```
+Instale as dependências:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+```bash
+npm install
+# ou
+yarn install
+```
+Abra http://localhost:3000 no navegador para jogar!
+## 🤝 Colaborador
+Weldon Pereira
+## 📝 Licença
+Este projeto está sob licença MIT. Veja o arquivo LICENSE para mais detalhes.
