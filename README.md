@@ -1,4 +1,4 @@
-# Word Guess ame 🎯
+# Word Guess Game 🎯
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/WeldonPereira/Word-Guess-Game?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/WeldonPereira/Word-Guess-Game?style=for-the-badge)
