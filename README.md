@@ -14,7 +14,7 @@
 
 ---
 
-### ✅ Ajustes e melhoria
+### ✅ Ajustes e melhorias
 
 O projeto ainda está em desenvolvimento. Futuras melhorias incluem:
 
